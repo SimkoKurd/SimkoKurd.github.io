@@ -1,8 +1,9 @@
 <!DOCTYPE html>
  <html>
+
  <head>
 
-     <title>Test Page: Don't Panic</title>
+     <title>This is the title of the post | Test Page</title>
 
 
      <meta name="description" content="This is a dangerous site.">
@@ -11,7 +12,8 @@
    <link href="/apple-touch-icon.png" rel="apple-touch-icon">
    <meta charset="utf-8">
    <meta name="viewport" content="width=device-width, initial-scale=1">
-   <link href="https://fonts.googleapis.com/css?family=Open+Sans|Raleway:100" rel="stylesheet">
+   <link href="https://fonts.googleapis.com/css?family=Open+Sans|Raleway:100"rel="
+   stylesheet">
    <link rel="stylesheet" href="/fonts/font-awesome-4.7.0/css/font-awesome.css">
    <link rel="stylesheet" href="/css/main.css">
 

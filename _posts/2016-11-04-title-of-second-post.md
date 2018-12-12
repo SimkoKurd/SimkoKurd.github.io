@@ -2,8 +2,8 @@
  <html>
  <head>
 
-     <title>Test Page: Don't Panic</title>
-
+     <title>This is the title of the post | Test Page</title>
+   
 
      <meta name="description" content="This is a dangerous site.">
 
